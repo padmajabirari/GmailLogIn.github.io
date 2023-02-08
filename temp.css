@@ -1,0 +1,19 @@
+.gimg{
+    object-fit: cover;
+    height: 300px;
+    width: 600px;
+}
+.cardcls1{
+    display:flex;
+    margin-top: 3%;
+   
+    background-color:aliceblue;
+    
+}
+
+.cardcls2{
+    display:flex;
+   
+    background-color:aliceblue;
+    
+}
